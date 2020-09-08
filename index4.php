@@ -1,9 +1,8 @@
 <?php
   echo "本地中制作代码冲突";
-  gyfhbueindjwmskqavfubhdinsj
-	  fguedhinsmk.a
-	  uehfindoms,pa/
-	  feiwgyduhisnjmok,p
-	  kejwhfgydms;';
-
+  11222222222222222222222222
+	  33333333333333333333
+	  555555555555555555555555555
+	  677777777777777777777777777
+	  999999999999999999999
 ?>
