@@ -1,3 +1,3 @@
 <?php
-  echo "index4"
+  echo "GitHub中制作代码冲突";
 ?>
